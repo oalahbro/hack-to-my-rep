@@ -2,6 +2,7 @@
 -[Al Fikri] (https://github.com/Al-User12)
 -[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
+- [Wicak Anjeng]
 -[Tommy Deliso](https://github.com/tdeliso)
 -[Mandeep Singh](https://github.com/deepsingh132)
 -[WeLostTheNight](https://github.com/574469831)
